@@ -10,6 +10,6 @@ while running:
     
 
     if monster_val % 6 == 0 and choice == "y":
-        print("The peeler found you!!")
+        print("aye!! sulla get over here")
     else:
         print("You are safe.....for now....")
