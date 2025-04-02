@@ -3,7 +3,7 @@ import time
 running = True
 
 while running:
-    monster_val = random.randint(0, 1094)
+    monster_val = random.randint(0, 4269)
 
     choice = input("Want to enter building?(y/n)")
 
