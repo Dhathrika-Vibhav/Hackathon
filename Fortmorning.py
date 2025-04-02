@@ -14,6 +14,6 @@ while running:
     if monster_val % 6 == 0 and choice == "y":
         print("aye!! jiggle booty get over here")
     eilf venomelon_val % 109 == 0 and choice =="y":
-        print("How lucky you are!! to be touched by veno the melon!")
+        print("How lucky you are to be touched by veno the melon!")
     else:
         print("i'll get u bagude wait da")
