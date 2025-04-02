@@ -3,7 +3,9 @@ import time
 running = True
 
 while running:
-    peeler_val = random.randint(0, 4269)
+    peeler_val = random.randint(0, 426)
+
+    venomelon_val = random.randint(0, 100000000)
 
     choice = input("Want to enter building?(y/n)")
 
@@ -11,5 +13,7 @@ while running:
 
     if monster_val % 6 == 0 and choice == "y":
         print("aye!! jiggle booty get over here")
+    eilf venomelon_val % 109 == 0 and choice =="y":
+        print("How lucky you are!! to be caught by him....Venomelon!!")
     else:
         print("i'll get u bagude wait da")
