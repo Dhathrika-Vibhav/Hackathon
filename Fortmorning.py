@@ -19,6 +19,6 @@ while running:
         player_pos_y -= 1
         print(player_pos_y, ",", player_pos_x)
     elif movement =="A":
-        player_pos_x +=1
+        player_pos_x -=1
     elif movement =="D":
-        player_pos_x -=1        
+        player_pos_x +=1        
