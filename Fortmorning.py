@@ -13,4 +13,9 @@ while running:
     movement = input("Where do you want to go??(W/A/S/D)")
 
     if movement == "W":
+        player_pos_y += 1
+        print(player_pos_y, ",", player_pos_x)
+    elif movement == "S":
+        player_pos_y -= 1
+        print(player_pos_y, ",", player_pos_x)
         
