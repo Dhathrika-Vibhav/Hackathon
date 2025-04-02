@@ -9,7 +9,7 @@ while running:
 
     
 
-    if monster_val % 7 == 0 and choice == "y":
+    if monster_val % 6 == 0 and choice == "y":
         print("The peeler found you!!")
     else:
         print("You are safe.....for now....")
