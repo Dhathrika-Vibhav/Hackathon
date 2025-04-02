@@ -12,4 +12,4 @@ while running:
     if monster_val % 6 == 0 and choice == "y":
         print("aye!! jiggle booty get over here")
     else:
-        print("il get u bagude wait da")
+        print("i'll get u bagude wait da")
